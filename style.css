@@ -1,0 +1,32 @@
+header, footer{
+   color: rgb(249, 206, 245); 
+   max-height: 500px;
+   text-align: center;
+   
+}
+ul{ 
+    list-style: none;
+    
+}
+.mgs{
+    color: rgb(150, 65, 234);
+}
+a{
+    color: rgb(233, 146, 223);
+    text-decoration: none;
+    max-height: 50px;
+}
+lol{
+    background-color: rgb(211, 208, 230);
+}
+omg{
+    background-color: rgb(165, 165, 225);
+}
+hmh{
+    background-color: rgb(134, 123, 225);
+}
+obby{
+    color: rgb(220, 248, 241);
+    text-decoration: none;
+    max-height: 50px;
+}
